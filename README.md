@@ -4,7 +4,7 @@
 
 *👋 Hi, I’m @ Deepak 
 
-*👀 I’m interested in Data Science and NLP
+*👀 I’m interested in Data Science,Data analytics and NLP
 
 *🌱 I’m currently learning Machine learning ,Deep learning and statistical analysis
 
